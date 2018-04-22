@@ -1,0 +1,385 @@
+# Translation of Themes - Portfolio Press in English (UK)
+# This file is distributed under the same license as the Themes - Portfolio Press package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:02:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Portfolio Press\n"
+
+#. Description of the plugin/theme
+msgid "Portfolio Press is a responsive theme for showcasing your photography, art, web sites, or other projects.  It also works nicely as a regular blog site. Configuration options are available in the customizer. Visit the <a href=\"http://themes.wptheming.com/portfolio/\">demo site</a> or watch the <a href=\"http://wptheming.com/portfolio-press\">video screencast</a> for set up instructions (http://wptheming.com/portfolio-press)."
+msgstr "Portfolio Press is a responsive theme for showcasing your photography, art, web sites, or other projects.  It also works nicely as a regular blog site. Configuration options are available in the customiser. Visit the <a href=\"http://themes.wptheming.com/portfolio/\">demo site</a> or watch the <a href=\"http://wptheming.com/portfolio-press\">video screencast</a> for set up instructions (http://wptheming.com/portfolio-press)."
+
+#. Theme Name of the plugin/theme
+msgid "Portfolio Press"
+msgstr "Portfolio Press"
+
+#. Template Name of the plugin/theme
+msgid "Image and Gallery Posts"
+msgstr "Image and Gallery Posts"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Portfolio"
+msgstr "Full-width Portfolio"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page"
+msgstr "Full-width Page"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Image and Gallery Posts"
+msgstr "Full Width Image and Gallery Posts"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Archives"
+
+#: search.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: image.php:46
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:43
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: header.php:42
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:188
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: functions.php:178
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:168
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:160 functions.php:170 functions.php:180 functions.php:190
+msgid "Widgetized footer"
+msgstr "Widgetised footer"
+
+#: functions.php:158
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:149
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#. #-#-#-#-#  portfolio-press.pot (Portfolio Press 2.7.2)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: footer.php:41
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: footer.php:41
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:41
+msgid "A Semantic Personal Publishing Platform"
+msgstr "A Semantic Personal Publishing Platform"
+
+#: footer.php:41
+msgid "Powered by"
+msgstr "Powered by"
+
+#: extensions/template-helpers.php:162
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: extensions/template-helpers.php:161
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: extensions/template-helpers.php:159 extensions/template-helpers.php:164
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: extensions/template-helpers.php:158 extensions/template-helpers.php:165
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: extensions/template-helpers.php:153
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: extensions/template-helpers.php:119
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: extensions/template-helpers.php:115
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: extensions/template-helpers.php:111
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: extensions/template-helpers.php:81 image.php:57 page.php:23
+#: templates/full-width-page.php:24
+msgid "Edit"
+msgstr "Edit"
+
+#: extensions/template-helpers.php:78
+msgid "% Comments"
+msgstr "% Comments"
+
+#: extensions/template-helpers.php:78
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: extensions/template-helpers.php:78
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: extensions/template-helpers.php:73
+msgid "Tagged: "
+msgstr "Tagged: "
+
+#: extensions/template-helpers.php:65
+msgid "Posted in: "
+msgstr "Posted in: "
+
+#: extensions/template-helpers.php:19
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: extensions/template-helpers.php:14
+msgid "<span class=\"meta-prep meta-prep-author\">Posted </span><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a> <span class=\"meta-sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\">%6$s</a></span>"
+msgstr "<span class=\"meta-prep meta-prep-author\">Posted </span><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a> <span class=\"meta-sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\">%6$s</a></span>"
+
+#: extensions/extras.php:49
+msgid "Portfolio Press recommends regenerating thumbnails. <a href=\"%1$s\" target=\"_blank\">Read More</a> | <a href=\"%2$s\">Hide Notice</a>"
+msgstr "Portfolio Press recommends regenerating thumbnails. <a href=\"%1$s\" target=\"_blank\">Read More</a> | <a href=\"%2$s\">Hide Notice</a>"
+
+#: extensions/extras.php:25
+msgid "Portfolio Press recommends setting <a href=\"%3$s\">posts per page</a> to 9 or 12. <a href=\"%1$s\">Update</a> | <a href=\"%2$s\">Hide Notice</a>"
+msgstr "Portfolio Press recommends setting <a href=\"%3$s\">posts per page</a> to 9 or 12. <a href=\"%1$s\">Update</a> | <a href=\"%2$s\">Hide Notice</a>"
+
+#: extensions/customizer-options.php:230
+msgid "Footer Text"
+msgstr "Footer Text"
+
+#: extensions/customizer-options.php:223
+msgid "Footer"
+msgstr "Footer"
+
+#: extensions/customizer-options.php:212
+msgid "Display archive titles and descriptions."
+msgstr "Display archive titles and descriptions."
+
+#: extensions/customizer-options.php:211
+msgid "Archive Titles"
+msgstr "Archive Titles"
+
+#: extensions/customizer-options.php:202
+msgid "Display Image and Gallery Formats on Posts Page"
+msgstr "Display Image and Gallery Formats on Posts Page"
+
+#: extensions/customizer-options.php:191
+msgid "Display image/gallery archives full width."
+msgstr "Display image/gallery archives full width."
+
+#: extensions/customizer-options.php:179
+msgid "Display portfolio archives full width."
+msgstr "Display portfolio archives full width."
+
+#: extensions/customizer-options.php:178 extensions/customizer-options.php:190
+msgid "Full Width Archives"
+msgstr "Full Width Archives"
+
+#: extensions/customizer-options.php:168
+msgid "Archive"
+msgstr "Archive"
+
+#: extensions/customizer-options.php:157
+msgid "Previous/next links on posts."
+msgstr "Previous/next links on posts."
+
+#: extensions/customizer-options.php:156
+msgid "Display post navigation"
+msgstr "Display post navigation"
+
+#: extensions/customizer-options.php:145
+msgid "Display featured images on posts."
+msgstr "Display featured images on posts."
+
+#: extensions/customizer-options.php:133
+msgid "Display featured images on portfolio posts."
+msgstr "Display featured images on portfolio posts."
+
+#: extensions/customizer-options.php:132 extensions/customizer-options.php:144
+msgid "Display Featured Images"
+msgstr "Display Featured Images"
+
+#: extensions/customizer-options.php:122
+msgid "General"
+msgstr "General"
+
+#: extensions/customizer-options.php:108
+msgid "Menu Position"
+msgstr "Menu Position"
+
+#: extensions/customizer-options.php:102
+msgid "Underneath Logo"
+msgstr "Underneath Logo"
+
+#: extensions/customizer-options.php:101
+msgid "Right of Logo"
+msgstr "Right of Logo"
+
+#: extensions/customizer-options.php:91
+msgid "Header Color"
+msgstr "Header Colour"
+
+#: extensions/customizer-options.php:84
+msgid "Colors"
+msgstr "Colours"
+
+#: extensions/customizer-options.php:72
+msgid "Standard Layout"
+msgstr "Standard Layout"
+
+#: extensions/customizer-options.php:66
+msgid "Single Column"
+msgstr "Single Column"
+
+#: extensions/customizer-options.php:65
+msgid "Sidebar Left"
+msgstr "Sidebar Left"
+
+#: extensions/customizer-options.php:64
+msgid "Sidebar Right"
+msgstr "Sidebar Right"
+
+#: extensions/customizer-options.php:59
+msgid "Layout"
+msgstr "Layout"
+
+#: extensions/customizer-options.php:51
+msgid "File must be <strong>.png</strong> format. Optimal dimensions: <strong>152px x 152px</strong>."
+msgstr "File must be <strong>.png</strong> format. Optimal dimensions: <strong>152px x 152px</strong>."
+
+#: extensions/customizer-options.php:47
+msgid "Apple Touch Icon"
+msgstr "Apple Touch Icon"
+
+#: extensions/customizer-options.php:41
+msgid "File must be <strong>.png</strong> format. Optimal dimensions: <strong>32px x 32px</strong>."
+msgstr "File must be <strong>.png</strong> format. Optimal dimensions: <strong>32px x 32px</strong>."
+
+#: extensions/customizer-options.php:37
+msgid "Favicon"
+msgstr "Favicon"
+
+#: extensions/customizer-options.php:28
+msgid "Logo"
+msgstr "Logo"
+
+#: extensions/customizer-options.php:21
+msgid "Logo Image"
+msgstr "Logo Image"
+
+#: extensions/customizer-library/extensions/preview.php:36
+msgid "Upgrade to Portfolio+"
+msgstr "Upgrade to Portfolio+"
+
+#: content.php:25 page.php:22 single-portfolio.php:27 single.php:27
+#: templates/full-width-page.php:23
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-none.php:15
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:11 search.php:32
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "1 Response"
+msgstr[1] "%1$s Responses"
+
+#: author.php:27
+msgid "About %s"
+msgstr "About %s"
+
+#: author.php:15
+msgid "Author Archives: <span class=\"vcard\">%s</span>"
+msgstr "Author Archives: <span class=\"vcard\">%s</span>"
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: 404.php:19
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "This is somewhat embarrassing, isn&rsquo;t it?"
+
+#. Author URI of the plugin/theme
+msgid "http://wptheming.com/"
+msgstr "http://wptheming.com/"
+
+#. Author of the plugin/theme
+msgid "Devin Price"
+msgstr "Devin Price"
+
+#. Theme URI of the plugin/theme
+msgid "http://wptheming.com/portfolio-press/"
+msgstr "http://wptheming.com/portfolio-press/"
